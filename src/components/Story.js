@@ -1,4 +1,4 @@
-/* eslint-disable react-hooks/exhaustive-deps */
+
 import React, { useState, useEffect, memo } from 'react';
 import { getStory } from '../services/hnApi';
 import {

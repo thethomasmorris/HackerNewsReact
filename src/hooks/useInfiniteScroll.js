@@ -1,4 +1,4 @@
-/* eslint-disable react-hooks/exhaustive-deps */
+
 import { useState, useEffect } from 'react';
 import { STORY_INCREMENT, MAX_STORIES } from '../constants';
 import { debounce } from '../utils/debounce';
