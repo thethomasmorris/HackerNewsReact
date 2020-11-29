@@ -3,7 +3,7 @@
 ## About
 A simple react client to view HackerNews content.
 
-# TO RUN THIS PROJECT
+## TO RUN THIS PROJECT
 
 1) Clone the repository
 2) Run the npm install command inside the cloned repository
